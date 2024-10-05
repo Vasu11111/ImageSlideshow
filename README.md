@@ -15,7 +15,7 @@
 }
 
 
-# Add ImageSlider XML code to your xml.Activity
+# Add ImageSlider XML code to your activity.xml
 
 	<androidx.cardview.widget.CardView
 	      app:cardCornerRadius="6dp"
