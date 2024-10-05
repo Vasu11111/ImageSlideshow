@@ -51,6 +51,10 @@
         // Set the images to the slider
         imageSlider.setImageList(imageList)
 
+# View 
+
+![images](https://github.com/user-attachments/assets/85354ff3-9eb4-4a41-bfc4-39075f431671)
+
 
 
 
