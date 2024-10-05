@@ -1,7 +1,5 @@
 # ImageSlideshow (kotlin)
 
-Setup
-
 # add dependencies 
 
 	dependencies {
@@ -16,7 +14,6 @@ Setup
 	     }
 }
 
-# Used 
 
 # Add ImageSlider XML code to your xml.Activity
 
