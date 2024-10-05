@@ -21,6 +21,7 @@ dependencies {
 #Used
 
 XML layout 
+
 <androidx.cardview.widget.CardView
       app:cardCornerRadius="6dp"
       android:layout_margin="16dp"
