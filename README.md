@@ -48,6 +48,11 @@
        // imageList.add(SlideModel("https://example.com/image4.jpg", "Image 4"))
        // imageList.add(SlideModel("https://example.com/image5.jpg", "Image 5"))
 
+	 // ScaleTypes.FIT 
+	      imageList.add(SlideModel(R.drawable.ic_banner, ScaleTypes.FIT))
+	        imageList.add(SlideModel(R.drawable.ic_banner,ScaleTypes.FIT))
+	        imageList.add(SlideModel(R.drawable.ic_banner,ScaleTypes.FIT))
+
         // Set the images to the slider
         imageSlider.setImageList(imageList)
 
